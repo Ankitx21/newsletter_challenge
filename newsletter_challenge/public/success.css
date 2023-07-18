@@ -1,0 +1,25 @@
+body {
+    background-color: hsl(235, 18%, 26%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    color: hsl(234, 29%, 20%);
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .container {
+    background-color: #fff !important;
+    padding: 20px 50px !important;
+    border-radius: 10px;
+    margin: 10% 30% 20% 30%;
+  }
+
+  .btn:hover{
+    background-color: #EF6262;
+  }
+  
